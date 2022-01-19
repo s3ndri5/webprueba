@@ -1,0 +1,15 @@
+body{
+    text-align: justify;
+    background-color: rgb(94, 24, 160);
+    
+}
+
+h1{
+    text-align: center;
+    font-style: italic;
+
+}
+
+p{
+    text-align: left;
+}
